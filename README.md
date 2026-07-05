@@ -223,4 +223,4 @@ Users can dynamically explore the dashboard using slicers.
 
 > **Interactive Excel Dashboard**
 
-![Dashboard](Dashboard.png)
+![Dashboard](https://github.com/ritikraj3001/E_Commerce_Dashboard_Excel/blob/main/Ecommerce%20Dashboard.png)
