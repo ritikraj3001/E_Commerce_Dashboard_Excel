@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Sales Analysis Dashboard (Microsoft Excel)
+# 🛍️ E-Commerce Analysis Dashboard (Microsoft Excel)
 
 ---
 
